@@ -12,4 +12,4 @@ def test_inexecute():
 
 @pytest.mark.xfail
 def test_noresult():
-    print("This is xfailed as per our requirement")
+    print("This is xfailed")
